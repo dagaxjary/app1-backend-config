@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: backend
-          image: cloudwithvarjosh/app1-backend:v1.0.0
+          image: dagaxdocker/app1-backend:v1.0.0
           ports:
             - containerPort: 5000
